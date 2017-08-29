@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/error_prone_annotations-2.0.18.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/jetty-repacked-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/selenium-api-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/selenium-chrome-driver-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/selenium-edge-driver-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/selenium-firefox-driver-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/selenium-ie-driver-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/selenium-java-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/selenium-java-3.5.2.zip"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/selenium-opera-driver-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/selenium-remote-driver-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/selenium-safari-driver-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/selenium-server-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/selenium-support-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Training/goibiboAutomation/Resources/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
