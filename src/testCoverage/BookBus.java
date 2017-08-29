@@ -3,7 +3,8 @@ package testCoverage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-import resources.HomePage;
+import locators.BusBookingPage;
+import locators.HomePage;
 
 public class BookBus {
 
@@ -13,6 +14,7 @@ public class BookBus {
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://www.goibibo.com");
 		HomePage.Bus(driver).click();
+		
 	}
 
 }

@@ -1,4 +1,4 @@
-package resources;
+package locators;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
